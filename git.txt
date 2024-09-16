@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m "first commit"
+git config user.email "fstoro@unac.edu.co"
+git config user.name "steventorol"
+git branch -M main
+git remote add origin https://github.com/Steventorol/Bank.git
+git push -u origin main
+
+actualizar repositorio:
+git pull
+git add.
+git comit -m "Actualización de repositorio"
+git push -u origin main 
